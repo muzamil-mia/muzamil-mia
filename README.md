@@ -1,36 +1,32 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)
-<h1 align="center">Hi 👋, I'm Muzamil Hussain</h1>
-<h3 align="center">A passionate frontend Web developer from India</h3>
-<img align = "right" alt ="coding" width ="400" src = "https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif"
+# 💫 About Me:
+Hi 👋, I'm Muzamil Hussain<br><br>A passionate frontend Web developer from India<br><br>🌱 I’m currently learning MERN STACK<br><br>📝 I regularly write articles on https://hashnode.com/@Muzamil-Hussain<br><br>💬 Ask me about Java, Javascript, and Frontend Development<br><br>📫 How to reach me hussainmuzamil862@gmail.com<br><br>⚡ Fun fact I Am Passionate About My Work
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil-mia&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil-mia" /> </p>
 
-<p align="left"> <a href="https://twitter.com/muzamilmia" target="blank"><img src="https://img.shields.io/twitter/follow/muzamilmia?logo=twitter&style=for-the-badge" alt="muzamilmia" /></a> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Muzamil Hussain#7704) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muzamilhussain098) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@muzamilmia) 
 
-- 🌱 I’m currently learning **MERN STACK**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muzamil-mia&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muzamil-mia&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muzamil-mia&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Muzamil-Hussain](https://hashnode.com/@Muzamil-Hussain)
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=@muzamilmia)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-- 💬 Ask me about **Java, Javascript, Frontend Development**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- 📫 How to reach me **hussainmuzamil862@gmail.com**
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-- ⚡ Fun fact **I Am Passionate About My Work**
+---
+[![](https://visitcount.itsvg.in/api?id=muzamil-mia&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/muzamilmia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muzamilmia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muzamil hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzamil hussain" height="30" width="40" /></a>
-<a href="https://instagram.com/muzamil mia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzamil mia" height="30" width="40" /></a>
-<a href="https://dribbble.com/muzamil hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="muzamil hussain" height="30" width="40" /></a>
-<a href="https://hashnode.com/muzamilhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="muzamilhussain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muzamil hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muzamil hussain" height="30" width="40" /></a>
-</p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/@muzamilmia) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzamil-mia&show_icons=true&locale=en&layout=compact" alt="muzamil-mia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzamil-mia&show_icons=true&locale=en" alt="muzamil-mia" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
