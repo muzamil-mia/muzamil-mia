@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Muzamil Hussain<br><br>A passionate frontend Web developer from India<br><br>🌱 I’m currently learning MERN STACK<br><br>📝 I regularly write articles on Hashnode <br><br>💬 Ask me about Java, Javascript, and Frontend Development<br><br>📫 Reach out to me at hussainmuzamil862@gmail.com<br><br>⚡ Fun fact I Am Passionate About My Work
+Hi 👋, I'm Muzamil Hussain<br>A passionate frontend Web developer from India<br>🌱 I’m currently learning MERN STACK<br>📝 I regularly write articles on Hashnode<br>💬 Ask me about Java, Javascript, and Frontend Development<br>📫 Reach out to me at hussainmuzamil862@gmail.com<br>⚡I Am Passionate About My Work
 
 
 ## 🌐 Socials:
