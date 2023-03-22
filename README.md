@@ -1,9 +1,11 @@
 # 💫 About Me:
-Hi 👋, I'm Muzamil Hussain<br><br>A passionate frontend Web developer from India<br><br>🌱 I’m currently learning MERN STACK<br><br>📝 I regularly write articles on https://hashnode.com/@Muzamil-Hussain<br><br>💬 Ask me about Java, Javascript, and Frontend Development<br><br>📫 How to reach me hussainmuzamil862@gmail.com<br><br>⚡ Fun fact I Am Passionate About My Work
+Hi 👋, I'm Muzamil Hussain<br><br>A passionate frontend Web developer from India<br><br>🌱 I’m currently learning MERN STACK<br><br>📝 I regularly write articles on Hashnode <br><br>💬 Ask me about Java, Javascript, and Frontend Development<br><br>📫 Reach out to me at hussainmuzamil862@gmail.com<br><br>⚡ Fun fact I Am Passionate About My Work
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Muzamil Hussain#7704) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muzamilhussain098) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@muzamilmia) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muzamilhussain098)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@muzamilmia) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/MuzamilHussain#7704) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
