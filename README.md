@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Muzamil Hussain</h1>
   <hr>
 
-🌱 Full-Stack Java Developer<br>📝 
+🌱 Full-Stack Java Developer<br> 
 
 [![](https://visitcount.itsvg.in/api?id=muzamil-mia&icon=0&color=12)](https://visitcount.itsvg.in)
 
