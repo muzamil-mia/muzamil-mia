@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Muzamil Hussain</h1>
   <hr>
 
-🚀 Full-Stack Java Developer
+🚀 Full-Stack Java Developer <br/>
 💻 Presently, I am collaboratively developing an early startup product with the core team, utilizing Java, Spring Boot, to create robust applications. Additionally, I contribute to crafting dynamic user experiences using React and Tailwind CSS. I have experience deploying scalable solutions with Docker and managing version control with Git/GitHub. My dedication to continuous learning in Agile environments ensures efficient project delivery and client satisfaction.
 
 [![](https://visitcount.itsvg.in/api?id=muzamil-mia&icon=0&color=12)](https://visitcount.itsvg.in)
@@ -30,11 +30,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # Tools
-# 💻 My Skill Set
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
-![Agile](https://img.shields.io/badge/Agile-%23161616.svg?style=flat-square&logo=agile&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Agile](https://img.shields.io/badge/Agile-%23161616.svg?style=for-the-badge&logo=agile&logoColor=white)
+
 
 
 
