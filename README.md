@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Muzamil Hussain</h1>
   <hr>
 
-<br>💞️A passionate full-stack java developer from India<br>👀 I’m interested in learning and working with community .<br>🌱 Full-Stack Java Developer<br>📝 I regularly write articles on Hashnode<br>💬 Ask me about Java, oops, Javascript, React<br>📫 Reach out to me at hussainmuzamil862@gmail.com<br>⚡I Am Passionate About My Work
+🌱 Full-Stack Java Developer<br>📝 
 
 [![](https://visitcount.itsvg.in/api?id=muzamil-mia&icon=0&color=12)](https://visitcount.itsvg.in)
 
