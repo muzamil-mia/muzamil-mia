@@ -1,7 +1,8 @@
 <h1>👋 Hi, I'm Muzamil Hussain</h1>
   <hr>
 
-🌱 Full-Stack Java Developer<br> 
+💻 Full-Stack Java Developer passionate about crafting robust applications with Java, Spring Boot, and Hibernate, and creating dynamic user experiences with React and Tailwind CSS. Experienced in deploying scalable solutions with Docker and managing version control with Git/GitHub. Dedicated to continuous learning in Agile environments, ensuring efficient project delivery and client satisfaction.
+
 
 [![](https://visitcount.itsvg.in/api?id=muzamil-mia&icon=0&color=12)](https://visitcount.itsvg.in)
 
@@ -28,11 +29,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+# Tools
 # 💻 My Skill Set
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Agile](https://img.shields.io/badge/Agile-%23161616.svg?style=for-the-badge&logo=agile&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+![Agile](https://img.shields.io/badge/Agile-%23161616.svg?style=flat-square&logo=agile&logoColor=white)
+
 
 
 
@@ -53,10 +56,6 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/@muzamilmia) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
