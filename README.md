@@ -1,8 +1,8 @@
 <h1>👋 Hi, I'm Muzamil Hussain</h1>
   <hr>
 
-💻 Full-Stack Java Developer passionate about crafting robust applications with Java, Spring Boot, and Hibernate, and creating dynamic user experiences with React and Tailwind CSS. Experienced in deploying scalable solutions with Docker and managing version control with Git/GitHub. Dedicated to continuous learning in Agile environments, ensuring efficient project delivery and client satisfaction.
-
+🚀 Full-Stack Java Developer
+💻 Presently, I am collaboratively developing an early startup product with the core team, utilizing Java, Spring Boot, to create robust applications. Additionally, I contribute to crafting dynamic user experiences using React and Tailwind CSS. I have experience deploying scalable solutions with Docker and managing version control with Git/GitHub. My dedication to continuous learning in Agile environments ensures efficient project delivery and client satisfaction.
 
 [![](https://visitcount.itsvg.in/api?id=muzamil-mia&icon=0&color=12)](https://visitcount.itsvg.in)
 
