@@ -2,8 +2,12 @@
   <hr>
 
 🚀 Full-Stack Java Developer <br/>
-💻 Presently, I am working as full stack developer at an early startup where i am collaboratively building an innovative startup product. Leveraging my expertise in Java and Spring Boot,  I contribute to creating robust and scalable applications. Additionally, I contribute to crafting dynamic user experiences using Reactjs and Tailwind CSS. My work also involves deploying scalable solutions with Docker and ensuring seamless version control through Git/GitHub. 
-Collaborating with industry veterans who have decades of experience, I am committed to continuous learning and agile practices, driving efficient project delivery and exceptional client satisfaction. My passion for technology and innovation fuels my contribution to this exciting venture.
+💻 Presently, I am working as full stack developer.
+💻 Passionate full-stack Java developer with almost 3 years of hands-on experience in developing robust, scalable
+applications using Java, Java 8, and a suite of frameworks including Hibernate, Spring Core, Spring Boot, and Spring
+Security. Adept at backend development, RESTful web services, and microservice architecture. Complementing
+backend skills with frontend expertise in ReactJS, Redux, JavaScript, and TailwindCSS to deliver seamless, end-to-end
+solutions.
 [![](https://visitcount.itsvg.in/api?id=muzamil-mia&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
